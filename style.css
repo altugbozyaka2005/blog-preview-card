@@ -32,6 +32,10 @@ body {
     gap: 24px;
 }
 
+.card:hover {
+    cursor: pointer;
+}
+
 .banner {
     border-radius: 10px;
     height: 200px;
